@@ -28,10 +28,10 @@ O objetivo é registrar os alunos, gerenciar suas informações pessoais e os se
 ## 📂 Estrutura do Projeto  
 
 sistemaGYM/
-├── CadastroUI.java       # Classe principal da interface gráfica
-├── Cliente.java          # Classe que representa o aluno/cliente
-├── listClientes.java     # Classe responsável por armazenar e gerenciar a lista de clientes
-└── imagens/              # Pasta com imagens de fundo (ex: Alex_and_Jader_Magical_Forest.jpg)
+- CadastroUI.java       # Classe principal da interface gráfica
+- Cliente.java          # Classe que representa o aluno/cliente
+- listClientes.java     # Classe responsável por armazenar e gerenciar a lista de clientes
+- imagens/              # Pasta com imagens de fundo (ex: Alex_and_Jader_Magical_Forest.jpg)
 
 ---
 
