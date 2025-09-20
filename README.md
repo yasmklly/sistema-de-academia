@@ -27,7 +27,7 @@ O objetivo é registrar os alunos, gerenciar suas informações pessoais e os se
 
 ## 📂 Estrutura do Projeto  
 
-``bash
+```bash
 sistemaGYM/
 ├── CadastroUI.java       # Classe principal da interface gráfica
 ├── Cliente.java          # Classe que representa o aluno/cliente
